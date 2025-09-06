@@ -9,7 +9,7 @@
 
 ## Setup
 ### Backend
-```bash
+
 cd backend
 npm install
 node server.js
@@ -21,3 +21,6 @@ npm start
 
 Backend runs on: http://localhost:5000
 Frontend runs on: http://localhost:3000
+
+
+###driveLink of video recording [https://drive.google.com/file/d/1H2GQ6DkagCyWWuhGj0kXwkWWJ494PJ7p/view?usp=sharing]
